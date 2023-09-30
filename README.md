@@ -1,6 +1,6 @@
 ## for dump codes only.
 
-- will be used for coding sprints (Oct, 15)
+- will be used for coding sprints (Nov. 15) // this will be the final 😭
 - source code disposal for random project.
 
 <!---

@@ -1,6 +1,7 @@
 ## for dump codes only.
 
-- will be used for coding sprints (Nov. 15) // this will be the final 😭
+- will be used for coding sprints (Nov. 1) along with my journey in ethical hacking :)
+- i'll be posting some recorded videos for my documentation (it will serve as my job interview prep)
 - source code disposal for random project.
 
 <!---
